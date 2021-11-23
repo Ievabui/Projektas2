@@ -1,0 +1,19 @@
+.container{
+	background-color: #eee;
+	width: 80%;
+	margin: 0 auto;
+}
+nav{
+	background-color: #000;
+}
+
+nav ul li{
+	display: inline-block;
+	padding: 10px;
+	background-color: #eedd88;
+}
+
+nav ul li a{
+	text-decoration: none;
+	text-align: center;
+}
